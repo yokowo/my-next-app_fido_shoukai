@@ -8,7 +8,7 @@ export default function BusinessRecoveryLP() {
       {/* ヘッダー */}
       <header className="bg-[#00603e] text-white p-4">
         <div className="container mx-auto">
-          <h1 className="text-2xl font-bold">事業再生コンサルティング</h1>
+          <h1 className="text-2xl font-bold">株式会社オシリス</h1>
         </div>
       </header>
 
@@ -110,7 +110,7 @@ export default function BusinessRecoveryLP() {
       {/* フッター */}
       <footer className="bg-[#00603e] text-white py-6 mt-12">
         <div className="container mx-auto px-4 text-center">
-          <p>&copy; 2024 事業再生コンサルティング. All rights reserved.</p>
+          <p>&copy; 株式会社オシリス. All rights reserved.</p>
         </div>
       </footer>
     </div>
