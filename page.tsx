@@ -76,7 +76,7 @@ export default function BusinessRecoveryLP() {
         <div className="text-center py-8">
           <Button
             className="bg-[#00603e] hover:bg-[#004e33] text-white text-lg px-8 py-6 rounded-lg shadow-lg transition-all duration-300"
-            onClick={() => (window.location.href = "#form-link")}
+            onClick={() => (window.location.href = "https://form.run/@marketing-q6RS5sC7t5C8IgoJvKYB")}
           >
             ご紹介フォームへ進む
             <ArrowRight className="ml-2 h-5 w-5" />
